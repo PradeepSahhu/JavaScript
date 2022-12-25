@@ -93,6 +93,11 @@ newButton.addEventListener("click", secondButton, false);
 // hiddening(newButton, buttons);
 
 ```
+## Why we need to use Database 
+
+- Reason is : because we can't permenantly store data into our arrays. Upon refresh all the data is lost and only the default data remains.
+
+![image](https://user-images.githubusercontent.com/94203408/209479548-1943aa72-aee1-4ceb-995a-d75e7bbc66f3.png)
 
 ![image](https://user-images.githubusercontent.com/94203408/209479443-538f8d56-d354-4618-85ec-ae93bce07683.png)
 
