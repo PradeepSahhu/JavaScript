@@ -93,3 +93,6 @@ newButton.addEventListener("click", secondButton, false);
 // hiddening(newButton, buttons);
 
 ```
+
+![image](https://user-images.githubusercontent.com/94203408/209479443-538f8d56-d354-4618-85ec-ae93bce07683.png)
+
