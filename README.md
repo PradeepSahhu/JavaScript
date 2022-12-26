@@ -101,3 +101,8 @@ newButton.addEventListener("click", secondButton, false);
 
 ![image](https://user-images.githubusercontent.com/94203408/209479443-538f8d56-d354-4618-85ec-ae93bce07683.png)
 
+
+## Parsing Array of objects and printing their values with the help of javascript.
+
+![image](https://user-images.githubusercontent.com/94203408/209524850-454ee4d0-7d13-4361-a003-165fcfb0b3bf.png)
+
